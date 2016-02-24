@@ -1,0 +1,14 @@
+{
+    "name": "GBP Brackets Theme",
+    "title": "gbiv-theme",
+    "description": "Greens, Blues, Purples, Oh My! Theme for Brackets.",
+    "homepage": "https://github.com/pearlberry/gbiv-theme",
+    "version": "1.0.0",
+    "author": "Lauren Christianson <laurenchristianson@live.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false
+    },
+    "keywords": ["theme"]
+}
